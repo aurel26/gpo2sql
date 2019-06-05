@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gpo2sql", "gpo2sql.vcxproj", "{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Debug|x64.ActiveCfg = Debug|x64
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Debug|x64.Build.0 = Debug|x64
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Debug|x86.ActiveCfg = Debug|Win32
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Debug|x86.Build.0 = Debug|Win32
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Release|x64.ActiveCfg = Release|x64
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Release|x64.Build.0 = Release|x64
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Release|x86.ActiveCfg = Release|Win32
+		{3AFDC7DB-9B84-4033-BAB1-1EFEA6D65B57}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CFF1157-5924-4CAF-AA95-009339826ECD}
+	EndGlobalSection
+EndGlobal
